@@ -1,0 +1,11 @@
+[package]
+name = "tokio-task-example"
+version = "0.1.0"
+authors = ["Oliver Gould <ver@buoyant.io>"]
+
+[dependencies]
+futures = "0.1"
+log = "0.3"
+pretty_env_logger = "0.1"
+rand = "0.3"
+tokio-timer = "0.1"
